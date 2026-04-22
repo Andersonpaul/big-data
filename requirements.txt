@@ -1,2 +1,3 @@
 kaggle
 azure-storage-file-datalake
+azure-functions
